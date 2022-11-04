@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.counter-1,.counter-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.counter-1 button, .counter-2 button {
+  margin: 0 12px;
+}
